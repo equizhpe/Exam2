@@ -1,7 +1,7 @@
-export default function Page() {
-    return (
-      <>
-      <h1 classname="text-3x1">Final Exam</h1>
-      </>
-    );
-  }
+export default function page() {
+  return (
+    <>
+    <h1 className="text-3xl">Final Exam</h1>
+    </>
+  );
+}
